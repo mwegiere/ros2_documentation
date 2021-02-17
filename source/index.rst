@@ -9,6 +9,7 @@ ROS 2 Documentation
 
    Installation
    Tutorials
+   Guides
    Concepts
    Troubleshooting
    Contributing
